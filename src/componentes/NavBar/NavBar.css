@@ -1,0 +1,17 @@
+header {
+    background: linear-gradient(to bottom right, rgb(83, 83, 160), rgb(250, 208, 215));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.LogoMarca {
+    margin-left: 20px;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+
+}
