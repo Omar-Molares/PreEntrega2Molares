@@ -6,7 +6,6 @@ const NavBar = () => {
   return (
     <header>
         <h1 className="LogoMarca">MotorBike</h1>
-
         <nav>
             <ul>
                 <li className="btn btn-outline-primary">Motos</li>
@@ -16,10 +15,7 @@ const NavBar = () => {
                 <li className="btn btn-outline-success" >Otras</li>
             </ul>
         </nav>
-
-        <CartWidget/>
-
-      
+        <CartWidget/>      
     </header>
   )
 }
