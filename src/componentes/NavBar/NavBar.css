@@ -6,9 +6,10 @@ header {
     border-bottom: 1px solid black;
 }
 
-.LogoMarca {
-    margin-left: 20px;
+.logoNav {
+    width: 200px;
 }
+
 
 li {
     display: inline;

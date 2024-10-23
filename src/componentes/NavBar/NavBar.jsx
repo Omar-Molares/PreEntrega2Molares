@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <header>
       <Link to="/">
-        <h1 className="LogoMarca">MotorBike</h1>
+        <img  className="logoNav"  src={"../../public/motorcycle.jpg"} alt="logo motorcycle" />
       </Link>
 
 
