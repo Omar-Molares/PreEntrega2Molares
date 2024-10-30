@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import { useState, useEffect } from 'react'
 import { CarritoContext } from "../../context/CarritoContext"
 import { db } from '../../services/config'
